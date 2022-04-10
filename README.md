@@ -17,3 +17,8 @@ IPXE boot script. [ipxe-boot]()./ipxe-boot).
 I wrote this to allow me to parse to computers PXE booting based on their type.  UDM only allows one boot image filename to be passed, which doesnt work when you are trying to netboot both ARM64 and AMD64 devices.
 This was required to run (sidero)[https://sidero.dev] in my homelab.
 
+## Sister repos
+
+I use this repo in conjuction with:
+
+- [https://github.com/Truxnell/home-cluster](https://github.com/Truxnell/home-cluster).  My 'main' repo for my gitops declared k8s cluster.
