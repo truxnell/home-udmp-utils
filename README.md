@@ -1,3 +1,11 @@
+# Deprecation notice
+
+After Unifi's massive patch update which totally broke everything i had - which autoupdated on my UDMP despite me having turned off the auto updteas multiple times - i ditched unifi for VYOS and couldnt be happier.
+
+Check out the awesome gitops vyos config at https://github.com/truxnell/vyos-config
+
+All of this repo is no longer valid due to this unifi breaking change.
+
 # Home UDMP utils
 
 This is a collection of tools im using on my UDMP, in conjunction with my k8s homelab [https://github.com/Truxnell/home-cluster](https://github.com/Truxnell/home-cluster)
